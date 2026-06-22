@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Kari 👋
 
-<!--
-**karilynaclark-wq/karilynaclark-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Startup operator, creator ecosystem builder, and AI-native product builder.
 
-Here are some ideas to get you started:
+Former employee #4 at The Nudge, where I built and scaled a creator ecosystem spanning 250+ creators across 45 markets reaching more than 3M subscribers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building Local Current, a marketplace connecting local businesses with micro-creators.
+
+## Interests
+
+- Creator ecosystems
+- Community building
+- Consumer startups
+- AI-native products
+- Creative AI tools
+
+## Currently experimenting with
+
+OpenAI Codex, Claude Code, Lovable, HeyGen, Descript, ElevenLabs, and Frame.io AI.
+
+## Current projects
+
+🚀 Building Local Current
+
+🤖 Experimenting with AI-assisted creator and community workflows
+
+📍 Based in Chicago
